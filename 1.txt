@@ -1,2 +1,2 @@
 this will pass to remote repository
-this is to move to local folder
+this will pull to local folder
